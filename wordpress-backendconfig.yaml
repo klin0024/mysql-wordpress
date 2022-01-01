@@ -7,4 +7,4 @@ spec:
     checkIntervalSec: 15
     port: 80
     type: HTTP
-    requestPath: /
+    requestPath: /wp-admin/install.php
