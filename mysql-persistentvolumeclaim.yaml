@@ -5,6 +5,7 @@ metadata:
   labels:
     app: wordpress
 spec:
+  #storageClassName: premium-rwo
   accessModes:
     - ReadWriteOnce
   resources:
